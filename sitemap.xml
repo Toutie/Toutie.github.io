@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://toutie.github.io/post/first_blog/</loc>
-    <lastmod>2019-11-17T17:29:32+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://toutie.github.io/</loc>
-    <lastmod>2019-11-17T17:29:32+08:00</lastmod>
+    <lastmod>2019-11-17T17:51:56+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://toutie.github.io/post/</loc>
+    <lastmod>2019-11-17T17:51:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toutie.github.io/post/springboot/</loc>
+    <lastmod>2019-11-17T17:51:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://toutie.github.io/post/first_blog/</loc>
     <lastmod>2019-11-17T17:29:32+08:00</lastmod>
   </url>
   

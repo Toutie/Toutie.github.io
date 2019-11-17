@@ -6,10 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2019 17:29:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 17:51:56 +0800</lastBuildDate>
     
 	<atom:link href="https://toutie.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Springboot</title>
+      <link>https://toutie.github.io/post/springboot/</link>
+      <pubDate>Sun, 17 Nov 2019 17:51:56 +0800</pubDate>
+      
+      <guid>https://toutie.github.io/post/springboot/</guid>
+      <description>Springboot 实战讲解。。。。。。</description>
+    </item>
     
     <item>
       <title>hugo博客搭建教程</title>
@@ -17,7 +26,7 @@
       <pubDate>Sun, 17 Nov 2019 17:29:32 +0800</pubDate>
       
       <guid>https://toutie.github.io/post/first_blog/</guid>
-      <description> 我的第一篇hugo博客 纪念一下  </description>
+      <description>我的第一篇hugo博客 纪念一下  测试一下这个东西 怎么更新</description>
     </item>
     
   </channel>
